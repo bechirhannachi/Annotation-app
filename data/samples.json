@@ -1,0 +1,16 @@
+[
+  {
+    "id": "img_001",
+    "image": "data/images/img_001.jpg",
+    "anomaly_label": 1,
+    "heatmap": "data/heatmaps/img_001.jpg",
+    "vlm_output": "data/vlm_outputs/img_001.txt"
+  },
+  {
+    "id": "img_002",
+    "image": "data/images/img_002.jpg",
+    "anomaly_label": 0,
+    "heatmap": "data/heatmaps/img_002.jpg",
+    "vlm_output": "data/vlm_outputs/img_002.txt"
+  }
+]
